@@ -1,0 +1,11 @@
+com\lolivetgt\elitemodels\model\Model.class
+com\lolivetgt\elitemodels\model\Texture.class
+com\lolivetgt\elitemodels\model\Animation.class
+com\lolivetgt\elitemodels\model\BBModelReader.class
+com\lolivetgt\elitemodels\comandos\EliteModelsCommand.class
+com\lolivetgt\elitemodels\EliteModels.class
+com\lolivetgt\elitemodels\util\TextureJSONGenerator.class
+com\lolivetgt\elitemodels\model\Bone.class
+com\lolivetgt\elitemodels\model\Keyframe.class
+com\lolivetgt\elitemodels\model\Element.class
+com\lolivetgt\elitemodels\util\ModelJSONGenerator.class

@@ -1,0 +1,27 @@
+EliteModels:
+  Slerp-Mode: SLERP
+  Animation-Mode: C
+  Movement-Resolution: 0.001
+  Compress-Packet: true
+  Default-Animations:
+    IDLE: idle
+    WALK: walk
+    JUMP: jump
+    SPAWN: spawn
+    DEATH: death
+Model-Generator:
+  Register-Post-Server: true
+  Assets-Post-Server: true
+  Enable-Error: true
+  Debug-Level: 1
+  Namespace: elitemodels
+  Compartment-Size: 1000
+  Create-Zip: true
+  Item-Model: LEATHER_HORSE_ARMOR
+Model-Calibrator:
+  Use-Calibration: true
+  Animation-Sync: 0.685
+commands:
+  elitemodels:
+    description: Comandos para el plugin EliteModels
+    usage: /elitemodels <reload|reload models|reload config|version|zip>
